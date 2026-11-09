@@ -1,0 +1,15 @@
+{
+  "_help": "Stock-wise FII holding quarterly shareholding pattern (NSE/BSE). Format: prev % and curr %",
+  "HDFCBANK": { "prev": 52.15, "curr": 53.40, "quarter": "Q2 FY27 vs Q1 FY27" },
+  "RELIANCE": { "prev": 21.65, "curr": 22.10, "quarter": "Q2 FY27 vs Q1 FY27" },
+  "INFY": { "prev": 33.20, "curr": 32.80, "quarter": "Q2 FY27 vs Q1 FY27" },
+  "ICICIBANK": { "prev": 44.50, "curr": 45.20, "quarter": "Q2 FY27 vs Q1 FY27" },
+  "TCS": { "prev": 12.45, "curr": 12.60, "quarter": "Q2 FY27 vs Q1 FY27" },
+  "ITC": { "prev": 42.10, "curr": 41.50, "quarter": "Q2 FY27 vs Q1 FY27" },
+  "AXISBANK": { "prev": 53.80, "curr": 54.30, "quarter": "Q2 FY27 vs Q1 FY27" },
+  "KOTAKBANK": { "prev": 38.90, "curr": 39.40, "quarter": "Q2 FY27 vs Q1 FY27" },
+  "LT": { "prev": 24.30, "curr": 25.10, "quarter": "Q2 FY27 vs Q1 FY27" },
+  "SBIN": { "prev": 10.80, "curr": 11.20, "quarter": "Q2 FY27 vs Q1 FY27" },
+  "BHARTIARTL": { "prev": 24.10, "curr": 24.60, "quarter": "Q2 FY27 vs Q1 FY27" },
+  "MARUTI": { "prev": 21.20, "curr": 20.80, "quarter": "Q2 FY27 vs Q1 FY27" }
+}

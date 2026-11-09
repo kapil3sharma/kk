@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+node_modules.zip
+*.zip
+
+# Environment & Credentials (NEVER upload private keys!)
+.env
+
+# Large tick data files
+*.ndjson
+
+# Logs
+*.log
+npm-debug.log*
+
+# Backups
+*.bak
+
+# OS junk
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: nifty-quant-engine
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: ACTIVE_BROKER
+        value: dhan
+      - key: DHAN_CLIENT_ID
+        sync: false
+      - key: DHAN_ACCESS_TOKEN
+        sync: false

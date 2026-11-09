@@ -1,0 +1,142 @@
+[
+  {
+    "fii_fut_oi": 52000,
+    "fii_long_ratio": 56.5,
+    "date": "09-Nov-2026",
+    "fii": 7212.22,
+    "dii": -7172.53
+  },
+  {
+    "fii_fut_oi": 52000,
+    "fii_long_ratio": 46.2,
+    "date": "08-Nov-2026",
+    "fii": -0.25,
+    "dii": -700.31
+  },
+  {
+    "fii_fut_oi": 52000,
+    "fii_long_ratio": 56.5,
+    "date": "06-Nov-2026",
+    "fii": 13749.82,
+    "dii": -5968.7
+  },
+  {
+    "fii_fut_oi": 52000,
+    "fii_long_ratio": 56.5,
+    "date": "05-Nov-2026",
+    "fii": 14974.68,
+    "dii": -10444.54
+  },
+  {
+    "fii_fut_oi": 52000,
+    "fii_long_ratio": 56.5,
+    "date": "02-Nov-2026",
+    "fii": 3114.68,
+    "dii": -392.2
+  },
+  {
+    "fii_fut_oi": 52000,
+    "fii_long_ratio": 56.5,
+    "date": "30-Oct-2026",
+    "fii": 3598.54,
+    "dii": -817.51
+  },
+  {
+    "fii_fut_oi": 52000,
+    "fii_long_ratio": 46.2,
+    "date": "29-Oct-2026",
+    "fii": -943.6,
+    "dii": 1924.41
+  },
+  {
+    "fii_fut_oi": 52000,
+    "fii_long_ratio": 56.5,
+    "date": "28-Oct-2026",
+    "fii": 871.83,
+    "dii": 643.35
+  },
+  {
+    "fii_fut_oi": 52000,
+    "fii_long_ratio": 56.5,
+    "date": "27-Oct-2026",
+    "fii": 4240.39,
+    "dii": -1250.03
+  },
+  {
+    "fii_fut_oi": 52000,
+    "fii_long_ratio": 46.2,
+    "date": "26-Oct-2026",
+    "fii": -1462.49,
+    "dii": 2609.57
+  },
+  {
+    "date": "23-Oct-2026",
+    "fii": 887.65,
+    "dii": 3235.36,
+    "fii_fut_oi": 54200,
+    "fii_long_ratio": 58.4
+  },
+  {
+    "date": "22-Oct-2026",
+    "fii": -1345.8,
+    "dii": 2410.5,
+    "fii_fut_oi": 48100,
+    "fii_long_ratio": 52.1
+  },
+  {
+    "date": "21-Oct-2026",
+    "fii": -980.25,
+    "dii": 1850.4,
+    "fii_fut_oi": 45300,
+    "fii_long_ratio": 49.8
+  },
+  {
+    "date": "20-Oct-2026",
+    "fii": 420.1,
+    "dii": 1230.8,
+    "fii_fut_oi": 46800,
+    "fii_long_ratio": 53.6
+  },
+  {
+    "date": "19-Oct-2026",
+    "fii": -610.5,
+    "dii": 1670.2,
+    "fii_fut_oi": 44100,
+    "fii_long_ratio": 48.2
+  },
+  {
+    "date": "16-Oct-2026",
+    "fii": -2150.4,
+    "dii": 3100.2,
+    "fii_fut_oi": 39500,
+    "fii_long_ratio": 42.5
+  },
+  {
+    "date": "15-Oct-2026",
+    "fii": -1680.9,
+    "dii": 2240.15,
+    "fii_fut_oi": 41200,
+    "fii_long_ratio": 44.1
+  },
+  {
+    "date": "14-Oct-2026",
+    "fii": 1120.45,
+    "dii": 950.3,
+    "fii_fut_oi": 47900,
+    "fii_long_ratio": 55
+  },
+  {
+    "date": "13-Oct-2026",
+    "fii": -740.1,
+    "dii": 1380.2,
+    "fii_fut_oi": 43500,
+    "fii_long_ratio": 47.3
+  },
+  {
+    "date": "10-Oct-2026",
+    "fii": -1450,
+    "dii": 2100.5,
+    "fii_fut_oi": 40100,
+    "fii_long_ratio": 43.8
+  }
+]

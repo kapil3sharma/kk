@@ -1,0 +1,9 @@
+[
+  { "date": "2026-10-28", "time": "23:30", "title": "US Fed FOMC Interest Rate Decision", "impact": "HIGH", "note": "Fed interest rate stance drives global liquidity and US dollar index (DXY)." },
+  { "date": "2026-10-29", "time": "15:30", "title": "NIFTY Monthly Derivatives Expiry", "impact": "HIGH", "note": "Oct monthly contracts expiry; high gamma volatility and roll-over volume expected." },
+  { "date": "2026-11-12", "time": "17:30", "title": "India CPI Consumer Inflation (MoM/YoY)", "impact": "HIGH", "note": "Ministry of Statistics data; directly influences RBI repo rate trajectory." },
+  { "date": "2026-11-13", "time": "19:00", "title": "US CPI Consumer Inflation Rate", "impact": "HIGH", "note": "Global market mover; impacts emerging markets capital inflows." },
+  { "date": "2026-11-30", "time": "17:30", "title": "India GDP Q2 Growth Rate (YoY)", "impact": "HIGH", "note": "India official GDP quarterly expansion benchmark report." },
+  { "date": "2026-12-04", "time": "10:00", "title": "RBI Monetary Policy Committee (MPC) Outcome", "impact": "HIGH", "note": "Governor statement on benchmark repo rate and banking liquidity stance." },
+  { "date": "2027-02-01", "time": "11:00", "title": "Union Budget 2027-28 Presentation", "impact": "HIGH", "note": "Annual fiscal budget, capital expenditure and tax policies." }
+]
